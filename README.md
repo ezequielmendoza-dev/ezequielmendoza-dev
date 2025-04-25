@@ -11,7 +11,7 @@
   - [LinkedIn](https://www.linkedin.com/in/ezequiel-mendoza)  
   - [Portfolio](https://ezequielmendoza-dev.github.io/ezequiel.mendoza)  
   - [Instagram](https://www.instagram.com/ezequielmendoza.dev)  
-  - Email: ezequiel.mendoza.dev@gmail.com  
+  - Email: ezequielmendoza.dev@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm self-taught, started coding in 2010 and I still get excited when something finally works after hours of debugging 😄
 
