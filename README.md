@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on open source projects, startups or ideas involving AI, PWA, or creative frontend challenges.
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/ezequiel-mendoza)  
-  - [Portfolio](https://ezequielmendoza-dev.github.io/ezequiel.mendoza)  
+  - [Portfolio](https://ezequielmendoza-dev.github.io/#projects)  
   - [Instagram](https://www.instagram.com/ezequielmendoza.dev)  
   - Email: ezequielmendoza.dev@gmail.com  
 - 😄 Pronouns: He/Him
